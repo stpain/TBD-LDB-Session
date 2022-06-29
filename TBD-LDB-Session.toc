@@ -1,0 +1,11 @@
+## Title: TBD-LDB-Session
+## Version: 0.1
+## Interface: 205020
+## Notes: Data Broker for game play session info
+## SavedVariables: 
+
+Libs\LibStub\LibStub.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+TBD-LDB-Session.xml
+TBD-LDB-Session.lua

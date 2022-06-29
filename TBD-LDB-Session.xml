@@ -1,0 +1,5 @@
+<UI>
+    <Frame name="TbdLdbSession" inherits="InsetFrameTemplate3">
+        <Size x="100" y="100"/>
+    </Frame>
+</UI>
